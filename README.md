@@ -56,13 +56,13 @@ Contacts. Поля: From, To, Member1_ID, Member2_ID
 
 При успешной валидации форма скрывается.
 ### 1
-![demo](https://github.com/sieugene/bim-test/blob/master/src/assets/gh/1.png?raw=true)
+![demo](https://github.com/sieugene/bim/blob/master/src/assets/gh/1.png?raw=true)
 ### 2
-![demo](https://github.com/sieugene/bim-test/blob/master/src/assets/gh/2.png?raw=true)
+![demo](https://github.com/sieugene/bim/blob/master/src/assets/gh/2.png?raw=true)
 ### 3
-![demo](https://github.com/sieugene/bim-test/blob/master/src/assets/gh/3.png?raw=true)
+![demo](https://github.com/sieugene/bim/blob/master/src/assets/gh/3.png?raw=true)
 ### 4
-![demo](https://github.com/sieugene/bim-test/blob/master/src/assets/gh/4.png?raw=true)
+![demo](https://github.com/sieugene/bim/blob/master/src/assets/gh/4.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
