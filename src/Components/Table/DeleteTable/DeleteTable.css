@@ -1,0 +1,55 @@
+.deleteModal{
+
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    position: fixed;
+    background: white;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    -webkit-box-shadow: 0px 7px 177px 17px rgba(0,0,0,0.35);
+-moz-box-shadow: 0px 7px 177px 17px rgba(0,0,0,0.35);
+box-shadow: 0px 7px 177px 17px rgba(0,0,0,0.35);
+}
+.deleteModal .title{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.deleteModal .wrap{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.wrap .confirm{
+    background: #c91010;
+    color: #fcebeb;
+    border: none;
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+.wrap .confirm:hover{
+    opacity: 0.65;
+}
+.wrap .cancel{
+    background: green;
+    color: #fcebeb;
+    border: none;
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+.wrap .cancel:hover{
+    opacity: 0.65;
+}
