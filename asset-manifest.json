@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bim/static/css/main.c5f0ed60.chunk.css",
+    "main.js": "/bim/static/js/main.d0a791fb.chunk.js",
+    "main.js.map": "/bim/static/js/main.d0a791fb.chunk.js.map",
+    "runtime-main.js": "/bim/static/js/runtime-main.eee68c44.js",
+    "runtime-main.js.map": "/bim/static/js/runtime-main.eee68c44.js.map",
+    "static/css/2.5a510433.chunk.css": "/bim/static/css/2.5a510433.chunk.css",
+    "static/js/2.a4fa2393.chunk.js": "/bim/static/js/2.a4fa2393.chunk.js",
+    "static/js/2.a4fa2393.chunk.js.map": "/bim/static/js/2.a4fa2393.chunk.js.map",
+    "index.html": "/bim/index.html",
+    "precache-manifest.ae4372fa4e6517b2fd3f2af671ac4b27.js": "/bim/precache-manifest.ae4372fa4e6517b2fd3f2af671ac4b27.js",
+    "service-worker.js": "/bim/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/bim/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.c5f0ed60.chunk.css.map": "/bim/static/css/main.c5f0ed60.chunk.css.map",
+    "static/js/2.a4fa2393.chunk.js.LICENSE.txt": "/bim/static/js/2.a4fa2393.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eee68c44.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.a4fa2393.chunk.js",
+    "static/css/main.c5f0ed60.chunk.css",
+    "static/js/main.d0a791fb.chunk.js"
+  ]
+}
