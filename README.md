@@ -1,4 +1,4 @@
-## Результат - https://sieugene.github.io/bim-test
+## Результат - https://sieugene.github.io/bim/#/
 `Выполнено`
 ```sh
  Базовые ✔
